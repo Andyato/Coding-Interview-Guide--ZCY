@@ -15,8 +15,6 @@ private:
     void adjust();
 
 public:
-    // MyTwoStackQueue() : popStack(new stack<int>()), pushStack(new stack<int>()) {}
-    // ~MyTwoStackQueue() { delete popStack; delete pushStack; }
     void push(int newNum);
     void pop();
     int front();
