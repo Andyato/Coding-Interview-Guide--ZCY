@@ -1,6 +1,11 @@
 /*
 【题目】 编写一个类，用两个栈实现队列，支持队列的基本操作(push、pop、back、front)。
 */
+/*
+【注意事项】
+* 1. 如果pushStack要往popStack中压入数据， 那么必须一次性把pushStack中的数据全部压入。
+* 2. 如果popStack不为空，pushStack绝对不能向popStack中压入数据。
+*/
 
 #include<iostream>
 #include<stack>
