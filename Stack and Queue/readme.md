@@ -1,5 +1,5 @@
 # 本章题目列表
-* 1 设计一个有getMin功能的栈 **(★☆☆☆)**
+* 1 设计一个有getMin功能的栈 **(★☆☆☆)**        [code](https://github.com/Andyato/Coding-Interview-Guide--ZCY/blob/master/Stack%20and%20Queue/one.cpp)
 * 2 由两个栈组成的队列  **(★★☆☆)**
 * 3 如何仅用递归函数和栈操作逆序一个栈 **(★★☆☆)**
 * 4 猫狗队列 **(★☆☆☆)**
